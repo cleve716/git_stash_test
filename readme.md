@@ -1,2 +1,1 @@
-first readme text
-second line after new local branch created
+first line on remote master
