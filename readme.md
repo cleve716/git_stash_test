@@ -13,3 +13,5 @@ The file I created: "new_branch_change/md", should then not exist in my local BF
 The modified remote origin master "readme.md" (this file, with this text), should now be in my local branch "BFST".
 
 Let's do it...
+
+THAT SEEMED TO WORK I ADDED THIS LINE TO TEST AGAIN
